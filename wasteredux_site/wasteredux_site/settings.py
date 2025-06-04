@@ -109,40 +109,40 @@ WSGI_APPLICATION = 'wasteredux_site.wsgi.application'
 
 # File: core/settings.py
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE'  : 'django.db.backends.mysql',
-#         'NAME'    : 'wasteredux_db',
-#         'USER'    : 'root',
-#         'PASSWORD': 'admin123',
-#         'HOST'    : 'localhost',
-#         'PORT'    : '3306',
-#     }
-# }
+DATABASES = {
+    'default': {
+        'ENGINE'  : 'django.db.backends.mysql',
+        'NAME'    : 'wasteredux_db',
+        'USER'    : 'root',
+        'PASSWORD': 'admin123',
+        'HOST'    : 'localhost',
+        'PORT'    : '3306',
+    }
+}
 
 
 # THIS IS FOR HOSTINGER DB
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'u354989168_wasteredux',
-        'USER': 'u354989168_wasteredux',
-        'PASSWORD': '@Wasteredux6969',
-        'HOST': 'srv1416.hstgr.io',
-        'PORT': '3306',
-        'OPTIONS': {
-            'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
-            'connect_timeout': 10,
-            'read_timeout': 20,
-            'write_timeout': 20,
-        },
-        'CONN_MAX_AGE': 60,  
-        'POOL_OPTIONS': {
-            'MAX_CONNS': 10, 
-            'MAX_OVERFLOW': 5, 
-        },
-    }
-}
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.mysql',
+#         'NAME': 'u354989168_wasteredux',
+#         'USER': 'u354989168_wasteredux',
+#         'PASSWORD': '@Wasteredux6969',
+#         'HOST': 'srv1416.hstgr.io',
+#         'PORT': '3306',
+#         'OPTIONS': {
+#             'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
+#             'connect_timeout': 10,
+#             'read_timeout': 20,
+#             'write_timeout': 20,
+#         },
+#         'CONN_MAX_AGE': 60,  
+#         'POOL_OPTIONS': {
+#             'MAX_CONNS': 10, 
+#             'MAX_OVERFLOW': 5, 
+#         },
+#     }
+# }
 
 # Password validation
 # https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators
