@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "imposing-voyage-441406-e5",
+  "private_key_id": "0114125eb7caf6da0bae68d59798428be4dbc28a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQaIv7dy5NOTj7\n0kzOEUSMBGOd1Zbd169oAs8PPf5JX61F1klfmA4R/J6HkkEHG/FTjmXcLG/IlANn\nG9zzQ/kEEW5cwPa0h37cFv+vI3NJwSyWdAUD+f+aEKrbo4AT3m+wli/Y6xDZh8lu\nqbNoQ9iwYMwslhC8cy+h1DWPDLn/+PMrDaaPtS6m2vYgGa9pgpa6Tzwn8N4pH7yn\n97In0Cw5W7KYJNPfD1ldLf/uTNWgaWQ2HbtZitEBdp2Kha5EkZQT51BBf2R+MZYV\ntwc9KqzO5OpZS/gsUV+aSGnpjgRiqo9LCjd5nOvQXa0pxRXxYs2BElPcfkvSyCcu\nMT+G6gyjAgMBAAECggEAFXcPI+FMlYuVQOqSGo9QvhMdp33+Qe8bE91mMi2yaSA/\nmnfNqtjgah3YviHkLLVGD9MUzq6M/N2x1AbcpPmVRkP9V/RP9JwYBtcfkoxWLXyF\n+SEN+zDekKGy11hpsqIwYsG1P+RGIgGIT6uO3OhQAyqVHOp/4skCWOqgcZFf/usX\nfCPH2HaNqKAaJylE8+MHH3p3QEEj6GQU6QT42SK6+6LOo8yuvRu6+HTqiOwxFPwh\nyKARHJ/CkPlVQLY6rNLw29g/r8BXpBTcgquQvfhn8IHaqY5/epDRh7AZivHvZq/Z\n86qXhysO1ohw39LlPDlVm3h1Qj56k4TwViZMD1ICIQKBgQD4RenzHbd9Qc4jKwNa\nZfEE0W2eYAxu54QTnzYQevWHjHx4ofAnkQwcTd2HvS8OSCVBuwQui3L8X/vnrANL\nL4UDECoATyBZH72rXdSlZE2Yh2tePxbpA7oliEvpG37XbY4ZKyvx920o9gSms2Rb\n0FaHdY4fuLNX1e6IexY/GUWZ2wKBgQDW5QP+1TCpKHQa0SfGELEWBkBnSrjQSeBV\nLRgIJaBPBk8sXHrQzCLxDJaE3YABtMJmHKt/u3nwD7ImR6jd/4WP7EJfzL9mOTDD\n+cvzzb7kwuTB51evKmZf5rBghzvDbIfEf2vECd0BrHwXXgnCu9cIMfiIYnTUgl4j\neZXzF8aG2QKBgQDReDthEcuEdQb1CQ91L9lgVUqFe0hCMjdvTr8QvI135gIGzaqP\n14M+RjwIkIepJxm4EY//rUxAvsMMvkaxItC4uuSVCi2ixHMEqNAHE0+cx3TBOb2c\nr7ZYgFx7uuUT4a0ocxJKvpVtH9TgyS59gJPhCj/1Z6J5E1iD8kXcyve8TQKBgAyB\ni3f7JDfT+N3OqkfmlMe5WWopeRP2GK4cT7e5qNiwf08Pmr4oAyiQGPpmgZqX0HBs\n3rYyTOhhoXaE2RkCU92KXFqC6eijD2l4UhxALwnVJcb7FalGCGswW7diZ2H6IPSY\njcb84/XC+f3KJTtF/z+k2NfnEvGDHMNnwghBq/YRAoGAd70uCUnW4N21TO0K+lY0\n1NlKc60k9j4cVx4temPV3C6LPSjIsiI2neXJqS/lMje299cG3c0JKn7FCds3Oc3t\n6HiKKWAHtS7NnxHW4AHOtn7V2oSXQa4n6wdQaEkjYcP8piz61a6teqoJvTnCBoPD\nn5KQqoavMLa2f7HuBl5VJD0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wreduxversion2@imposing-voyage-441406-e5.iam.gserviceaccount.com",
+  "client_id": "109555172420745139284",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wreduxversion2%40imposing-voyage-441406-e5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
