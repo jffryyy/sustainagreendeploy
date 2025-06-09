@@ -13,10 +13,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['*'
-                 'sustainagreenweb.com']  # Update with actual hostnames
+ALLOWED_HOSTS = ['*',
+                 'sustainagreenweb.com',
+                 'www.sustainagreenweb.com',
+                 ]  # Update with actual hostnames
 
 # ALLOWED_HOSTS = [
 #     'localhost', 
@@ -185,7 +187,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.1/howto/static-files/
 
-STATIC_URL = 'static/'
+STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'theme/static_src'),  # Add your static sources
     # Do not include STATIC_ROOT here
