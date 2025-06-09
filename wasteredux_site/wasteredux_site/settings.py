@@ -15,7 +15,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']  # Update with actual hostnames
+ALLOWED_HOSTS = ['*'
+                 'sustainagreenweb.com']  # Update with actual hostnames
 
 # ALLOWED_HOSTS = [
 #     'localhost', 
