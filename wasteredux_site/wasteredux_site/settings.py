@@ -117,7 +117,7 @@ DATABASES = {
         'ENGINE'  : 'django.db.backends.mysql',
         'NAME'    : 'wasteredux_db',
         'USER'    : 'root',
-        'PASSWORD': 'admin123',
+        'PASSWORD': 'Admin@123sustain',
         'HOST'    : 'localhost',
         'PORT'    : '3306',
     }
